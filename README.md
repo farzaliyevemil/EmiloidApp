@@ -1,3 +1,1 @@
-# bu kommend deyil boyuk edir shrifti
-test ucundu bu 
-
+I am editing the README file. Adding some more details about the project description.
